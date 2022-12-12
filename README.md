@@ -30,6 +30,8 @@
 
 <hr>
 
+<!-- 贪吃蛇代码贡献图 -->
+<div align="center"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/grid-snake.svg" /></div>
 
 <h2>🔥 Using langs 🔥</h2>
 
