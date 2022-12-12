@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm [wdzxy](https://github.com/wdzxy7)
+> A Graduate Students at [ChongQing 🚪 University](http://www.cqupt.edu.cn/)
 
 <img align='right' src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/play.gif" width="230">
 
@@ -30,12 +31,12 @@
 <hr>
 
 
+<h2>👅 Using langs 👅</h2>
 
-<br/><br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdzxy7&layout=compact&theme=tokyonight)
 
-<h2>💻 Some stats 💻</h2>
+<h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Profile stats <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=wdzxy7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
