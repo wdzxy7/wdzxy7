@@ -47,6 +47,6 @@
  <a href="mailto:wdzxy7@qq.com"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;&nbsp;
    <a href="https://github.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;&nbsp;
   <a href="https://twitter.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/twitter.svg" width="30px" alt="Twitter">  </a> &nbsp; &nbsp;&nbsp;
- <a href="https://www.instagram.com/candy_zorro/"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/ins.png" width="43px" alt="Instagram">   </a> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/candy_zorro/"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/ins.png" width="45px" alt="Instagram">   </a> &nbsp; &nbsp;
  <a href="https://weibo.com/u/7197995471"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/wb.png" width="40px" alt="Instagram">   </a> &nbsp; &nbsp;
 </p>
