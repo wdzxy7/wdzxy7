@@ -4,12 +4,11 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chongqing University of Posts and Telecommunications(ChongQing 🚪 University).
 
 - ✍️ &nbsp; My research direction is Traffic inflow and outflow prediction.
 
-- 🌱 &nbsp; Learning about BigData, Machine Learning.
+- 🌱 &nbsp; Learning BigData | Machine Learning | Artificial Intelligence.
 
 - 🔭 &nbsp; Playing League of Legends | DungeonFighter | Spatula.
 
