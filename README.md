@@ -44,8 +44,9 @@
 
 <img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/friend.gif" width="60"> <em><b>I love connecting with different people and if you want to say <b>hi or  talk to me about code issues :) you can contact me through the following contacts</b></em>
 <p align="center">
- <a href="mailto:wdzxy7@qq.com"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-   <a href="https://github.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/twitter.svg" width="30px" alt="Twitter">  </a> &nbsp; &nbsp;
- <a href="https://www.instagram.com/candy_zorro/"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/ins.png" width="45px" alt="Instagram">   </a> &nbsp; &nbsp;
+ <a href="mailto:wdzxy7@qq.com"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;&nbsp;
+   <a href="https://github.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;&nbsp;
+  <a href="https://twitter.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/twitter.svg" width="30px" alt="Twitter">  </a> &nbsp; &nbsp;&nbsp;
+ <a href="https://www.instagram.com/candy_zorro/"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/ins.png" width="43px" alt="Instagram">   </a> &nbsp; &nbsp;
+ <a href="https://weibo.com/u/7197995471"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/wb.png" width="40px" alt="Instagram">   </a> &nbsp; &nbsp;
 </p>
