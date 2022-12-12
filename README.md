@@ -31,7 +31,7 @@
 <hr>
 
 
-<h2>👅 Using langs 👅</h2>
+<h2>🔥 Using langs 🔥</h2>
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdzxy7&layout=compact&theme=tokyonight)
