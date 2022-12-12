@@ -42,7 +42,7 @@
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=wdzxy7&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-<img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/friend.gif" width="60"> <em><b>I love connecting with different people</b> and if you want to say <b>hi or  talk to me about code issues :) you can contact me through the following contacts</em>
+<img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/friend.gif" width="60"> <em><b>I love connecting with different people and if you want to say <b>hi or  talk to me about code issues :) you can contact me through the following contacts</b></em>
 <p align="center">
  <a href="mailto:wdzxy7@qq.com"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
    <a href="https://github.com/wdzxy7"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/github.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
