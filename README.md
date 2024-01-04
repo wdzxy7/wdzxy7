@@ -19,7 +19,7 @@
 
 - 💻 &nbsp; Python | Scala | C
 
-- 🔧 &nbsp; MySQL | Git | Selenium | Docker🐳 | Spark | Hadoop | Flink | Kafka | Zookeeper
+- 🔧 &nbsp; MySQL | Git | Selenium | Docker🐳 | Spark | Hadoop | Flink | Kafka | Zookeeper | Flume
 
 - 🌐 &nbsp; Django
 
