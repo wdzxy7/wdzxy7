@@ -5,9 +5,9 @@
 
 <h3> 👨🏻•💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at Chongqing University of Posts and Telecommunications(ChongQing 🚪 University).
+- 🎓 &nbsp; Studying Computer Science and Engineering at Chongqing University of Posts and Telecommunications(Chongqing 🚪 University).
 
-- ✍️ &nbsp; My research direction is Traffic inflow and outflow prediction.
+- ✍️ &nbsp; My research direction is Recommendation system and flow prediction.
 
 - 🌱 &nbsp; Learning BigData | Machine Learning | Artificial Intelligence.
 
@@ -17,9 +17,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Scala | C
+- 💻 &nbsp; Python | Scala | SQL
 
-- 🔧 &nbsp; MySQL | Git | Selenium | Docker🐳 | Spark | Hadoop | Flink | Kafka | Zookeeper | Flume
+- 🔧 &nbsp; DeepLearning | MySQL | Git | Selenium | Docker🐳 | Spark | Hadoop | Flink | Kafka | Zookeeper | Flume
 
 - 🌐 &nbsp; Django
 
