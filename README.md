@@ -1,5 +1,6 @@
 ### Hi there 👋 I'm [wdzxy](https://github.com/wdzxy7)
 > A Graduate Students at [ChongQing 🚪 University](http://www.cqupt.edu.cn/)
+> I currently work at Alibaba's Cainiao Group, and my job focuses on time series forecasting.
 
 <img align='right' src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/play.gif" width="230">
 
@@ -7,17 +8,17 @@
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Chongqing University of Posts and Telecommunications(Chongqing 🚪 University).
 
-- ✍️ &nbsp; My research direction is Recommendation system and flow prediction.
+- ✍️ &nbsp; My research direction is Recommendation system and flow prediction. (This is my research result: 10.1109/TETCI.2025.3525656, 10.1109/TMC.2024.3455107)
 
 - 🌱 &nbsp; Learning BigData | Machine Learning | Artificial Intelligence.
 
-- 🔭 &nbsp; Playing League of Legends | DungeonFighter | Spatula.
+- 🔭 &nbsp; Playing League of Legends | DungeonFighter.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Scala | SQL
+- 💻 &nbsp; Python | SQL
 
 - 🔧 &nbsp; DeepLearning | MySQL | Git | Selenium | Docker🐳 | Spark | Hadoop | Flink | Kafka | Zookeeper | Flume
 
@@ -26,7 +27,7 @@
 
 <h3>🛠 Learning</h3>
 
-- 🛢 &nbsp; Spark | Scala | Docker🐳 | Linux
+- 🛢 &nbsp; Quantification
 
 <hr>
 
@@ -50,3 +51,4 @@
  <a href="https://www.instagram.com/candy_zorro/"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/ins.png" width="45px" alt="Instagram">   </a> &nbsp; &nbsp;
  <a href="https://weibo.com/u/7197995471"><img src="https://github.com/wdzxy7/wdzxy7/blob/main/icon/wb.png" width="40px" alt="Instagram">   </a> &nbsp; &nbsp;
 </p>
+
